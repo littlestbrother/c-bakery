@@ -11,8 +11,12 @@ namespace Order{
     }
 
     public MenuItem(){
-      _instances.Add(this);
+        _instances.Add(this);
     }
 
 }
+
+public class Bread : MenuItem{}
+
+public class Pastry : MenuItem{}
 }
