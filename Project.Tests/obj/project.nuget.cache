@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MFy0kr+0mtuiCQo99YTEgjBeyIK2LHSrglEDam3QNTQ2YsqcUkTOKIuz324d5uadkCmz55oCQgM+azH41UZIGQ==",
+  "dgSpecHash": "9kcwkhjjxgreYB/u4K6ZI2csHtayWJrAcCh0qdqkxmVcc1nZM/oJV266luqKUm6y7lpKbNdB26O22RNn+lZOSg==",
   "success": true,
-  "projectFilePath": "/home/aaron/Documents/epicodus/epicodus-fullstack/templates/C#MsTest/Calendar.Tests/Calendar.Tests.csproj",
+  "projectFilePath": "/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project.Tests/Project.Tests.csproj",
   "expectedPackageFiles": [
     "/home/aaron/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/home/aaron/.nuget/packages/microsoft.net.test.sdk/15.0.0/microsoft.net.test.sdk.15.0.0.nupkg.sha512",

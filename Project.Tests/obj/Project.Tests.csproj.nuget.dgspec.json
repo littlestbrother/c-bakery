@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/aaron/Documents/epicodus/epicodus-fullstack/templates/C#MsTest/Calendar.Tests/Calendar.Tests.csproj": {}
+    "/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project.Tests/Project.Tests.csproj": {}
   },
   "projects": {
-    "/home/aaron/Documents/epicodus/epicodus-fullstack/templates/C#MsTest/Calendar.Tests/Calendar.Tests.csproj": {
+    "/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project.Tests/Project.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aaron/Documents/epicodus/epicodus-fullstack/templates/C#MsTest/Calendar.Tests/Calendar.Tests.csproj",
-        "projectName": "Calendar.Tests",
-        "projectPath": "/home/aaron/Documents/epicodus/epicodus-fullstack/templates/C#MsTest/Calendar.Tests/Calendar.Tests.csproj",
+        "projectUniqueName": "/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project.Tests/Project.Tests.csproj",
+        "projectName": "Project.Tests",
+        "projectPath": "/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project.Tests/Project.Tests.csproj",
         "packagesPath": "/home/aaron/.nuget/packages/",
-        "outputPath": "/home/aaron/Documents/epicodus/epicodus-fullstack/templates/C#MsTest/Calendar.Tests/obj/",
+        "outputPath": "/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aaron/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/home/aaron/Documents/epicodus/epicodus-fullstack/templates/C#MsTest/Calendar/Calendar.csproj": {
-                "projectPath": "/home/aaron/Documents/epicodus/epicodus-fullstack/templates/C#MsTest/Calendar/Calendar.csproj"
+              "/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/Project.csproj": {
+                "projectPath": "/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/Project.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "/home/aaron/Documents/epicodus/epicodus-fullstack/templates/C#MsTest/Calendar/Calendar.csproj": {
+    "/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aaron/Documents/epicodus/epicodus-fullstack/templates/C#MsTest/Calendar/Calendar.csproj",
-        "projectName": "Calendar",
-        "projectPath": "/home/aaron/Documents/epicodus/epicodus-fullstack/templates/C#MsTest/Calendar/Calendar.csproj",
+        "projectUniqueName": "/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/Project.csproj",
+        "projectName": "Project",
+        "projectPath": "/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/Project.csproj",
         "packagesPath": "/home/aaron/.nuget/packages/",
-        "outputPath": "/home/aaron/Documents/epicodus/epicodus-fullstack/templates/C#MsTest/Calendar/obj/",
+        "outputPath": "/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aaron/.nuget/NuGet/NuGet.Config"
