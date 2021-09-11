@@ -1,0 +1,16 @@
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/bin/Debug/net5.0/MSTest
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/bin/Debug/net5.0/MSTest.deps.json
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/bin/Debug/net5.0/MSTest.runtimeconfig.json
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/bin/Debug/net5.0/MSTest.runtimeconfig.dev.json
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/bin/Debug/net5.0/MSTest.dll
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/bin/Debug/net5.0/ref/MSTest.dll
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/bin/Debug/net5.0/MSTest.pdb
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/Debug/net5.0/MSTest.csproj.AssemblyReference.cache
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/Debug/net5.0/MSTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/Debug/net5.0/MSTest.AssemblyInfoInputs.cache
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/Debug/net5.0/MSTest.AssemblyInfo.cs
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/Debug/net5.0/MSTest.csproj.CoreCompileInputs.cache
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/Debug/net5.0/MSTest.dll
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/Debug/net5.0/ref/MSTest.dll
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/Debug/net5.0/MSTest.pdb
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/Debug/net5.0/MSTest.genruntimeconfig.cache

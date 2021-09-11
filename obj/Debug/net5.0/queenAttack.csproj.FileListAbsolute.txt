@@ -1,0 +1,16 @@
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/bin/Debug/net5.0/queenAttack
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/bin/Debug/net5.0/queenAttack.deps.json
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/bin/Debug/net5.0/queenAttack.runtimeconfig.json
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/bin/Debug/net5.0/queenAttack.runtimeconfig.dev.json
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/bin/Debug/net5.0/queenAttack.dll
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/bin/Debug/net5.0/ref/queenAttack.dll
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/bin/Debug/net5.0/queenAttack.pdb
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/Debug/net5.0/queenAttack.csproj.AssemblyReference.cache
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/Debug/net5.0/queenAttack.GeneratedMSBuildEditorConfig.editorconfig
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/Debug/net5.0/queenAttack.AssemblyInfoInputs.cache
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/Debug/net5.0/queenAttack.AssemblyInfo.cs
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/Debug/net5.0/queenAttack.csproj.CoreCompileInputs.cache
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/Debug/net5.0/queenAttack.dll
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/Debug/net5.0/ref/queenAttack.dll
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/Debug/net5.0/queenAttack.pdb
+/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/Debug/net5.0/queenAttack.genruntimeconfig.cache
