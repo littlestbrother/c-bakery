@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "queenAttack/1.0.0": {
+      "Project/1.0.0": {
         "runtime": {
-          "queenAttack.dll": {}
+          "Project.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "queenAttack/1.0.0": {
+    "Project/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

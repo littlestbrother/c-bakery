@@ -1,0 +1,16 @@
+/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/obj/Debug/net5.0/Project.csproj.AssemblyReference.cache
+/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/obj/Debug/net5.0/Project.GeneratedMSBuildEditorConfig.editorconfig
+/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/obj/Debug/net5.0/Project.AssemblyInfoInputs.cache
+/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/obj/Debug/net5.0/Project.AssemblyInfo.cs
+/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/obj/Debug/net5.0/Project.csproj.CoreCompileInputs.cache
+/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/bin/Debug/net5.0/Project
+/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/bin/Debug/net5.0/Project.deps.json
+/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/bin/Debug/net5.0/Project.runtimeconfig.json
+/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/bin/Debug/net5.0/Project.runtimeconfig.dev.json
+/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/bin/Debug/net5.0/Project.dll
+/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/bin/Debug/net5.0/ref/Project.dll
+/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/bin/Debug/net5.0/Project.pdb
+/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/obj/Debug/net5.0/Project.dll
+/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/obj/Debug/net5.0/ref/Project.dll
+/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/obj/Debug/net5.0/Project.pdb
+/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/obj/Debug/net5.0/Project.genruntimeconfig.cache

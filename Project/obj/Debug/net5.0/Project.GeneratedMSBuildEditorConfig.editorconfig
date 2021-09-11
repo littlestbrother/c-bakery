@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Project
-build_property.ProjectDir = /home/aaron/Documents/epicodus/epicodus-fullstack/templates/C#MsTest/Project/
+build_property.ProjectDir = /home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/

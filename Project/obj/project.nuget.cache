@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+JA9Uma/7wnzvfQ91/nhnH9e5OjXiqGr60fpadOIlKzfyvrljrbt82ZMLFjIILVxSqbotD7ScWgA1Y1qzjdDNA==",
+  "dgSpecHash": "N+v6cdcpJNGYRIXES+5jVnVUMJJ9njPeA0axipsj0qkMRFFegbAp9u8RsQLWmxLVXjhk130q6XLiFqWT5TegfQ==",
   "success": true,
-  "projectFilePath": "/home/aaron/Documents/epicodus/epicodus-fullstack/templates/C#MsTest/Calendar/Calendar.csproj",
+  "projectFilePath": "/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/Project.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

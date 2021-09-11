@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/queenAttack.csproj": {}
+    "/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/Project.csproj": {}
   },
   "projects": {
-    "/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/queenAttack.csproj": {
+    "/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/queenAttack.csproj",
-        "projectName": "queenAttack",
-        "projectPath": "/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/queenAttack.csproj",
+        "projectUniqueName": "/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/Project.csproj",
+        "projectName": "Project",
+        "projectPath": "/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/Project.csproj",
         "packagesPath": "/home/aaron/.nuget/packages/",
-        "outputPath": "/home/aaron/Documents/epicodus/epicodus-fullstack/queen-attack/obj/",
+        "outputPath": "/home/aaron/Documents/epicodus/epicodus-fullstack/DotNetBakery/Project/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/aaron/.nuget/NuGet/NuGet.Config"
