@@ -49,4 +49,35 @@ namespace Order.Tests
         Assert.AreEqual(1,ConsoleProgram.PastryCount(result));
         }       
     }
+
+        [TestClass]
+    public class CalculateItems
+    {
+
+        [TestMethod]
+        public void Bread_BreadCalculate_True()
+        {
+        Bread newBread2 = new Bread();
+        Bread newBread3 = new Bread();
+        List<MenuItem> result = MenuItem.GetAll();
+        Assert.AreEqual(100,ConsoleProgram.CalculateBread(ConsoleProgram.BreadCount(result)));
+        Bread newBread4 = new Bread();
+        Assert.AreEqual(150,ConsoleProgram.CalculateBread(ConsoleProgram.BreadCount(result)));
+        }
+
+        [TestMethod]
+        public void Pastry_PastryCalculate_True()
+        {
+        Pastry newPastry2 = new Pastry();
+        Pastry newPastry3 = new Pastry();
+        List<MenuItem> result = MenuItem.GetAll();
+        Assert.AreEqual(50,ConsoleProgram.CalculatePastry(ConsoleProgram.PastryCount(result)));
+        Pastry newPastry4 = new Pastry();
+        Assert.AreEqual(70,ConsoleProgram.CalculatePastry(ConsoleProgram.PastryCount(result)));
+        Pastry newPastry5 = new Pastry();
+        Assert.AreEqual(90,ConsoleProgram.CalculatePastry(ConsoleProgram.PastryCount(result)));
+        Pastry newPastry6 = new Pastry();
+        Assert.AreEqual(100,ConsoleProgram.CalculatePastry(ConsoleProgram.PastryCount(result)));
+        }       
+    }
 }
