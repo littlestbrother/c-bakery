@@ -39,7 +39,6 @@ namespace Order.Tests
         public void Bread_BreadCount_True()
         {
         List<MenuItem> result = MenuItem.GetAll();
-        //we expect two because a bread object was created earlier in our code on line 22.
         Assert.AreEqual(1,ConsoleProgram.BreadCount(result));
         }       
 
@@ -47,8 +46,7 @@ namespace Order.Tests
         public void Pastry_PastryCount_True()
         {
         List<MenuItem> result = MenuItem.GetAll();
-        //we expect two because a bread object was created earlier in our code on line 22.
-        Assert.AreEqual(2,ConsoleProgram.PastryCount(result));
+        Assert.AreEqual(1,ConsoleProgram.PastryCount(result));
         }       
     }
 }
