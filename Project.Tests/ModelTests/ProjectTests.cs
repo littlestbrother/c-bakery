@@ -60,9 +60,9 @@ namespace Order.Tests
         Bread newBread2 = new Bread();
         Bread newBread3 = new Bread();
         List<MenuItem> result = MenuItem.GetAll();
-        Assert.AreEqual(100,ConsoleProgram.CalculateBread(ConsoleProgram.BreadCount(result)));
+        Assert.AreEqual(10,ConsoleProgram.CalculateBread(ConsoleProgram.BreadCount(result)));
         Bread newBread4 = new Bread();
-        Assert.AreEqual(150,ConsoleProgram.CalculateBread(ConsoleProgram.BreadCount(result)));
+        Assert.AreEqual(15,ConsoleProgram.CalculateBread(ConsoleProgram.BreadCount(result)));
         }
 
         [TestMethod]
@@ -71,13 +71,13 @@ namespace Order.Tests
         Pastry newPastry2 = new Pastry();
         Pastry newPastry3 = new Pastry();
         List<MenuItem> result = MenuItem.GetAll();
-        Assert.AreEqual(50,ConsoleProgram.CalculatePastry(ConsoleProgram.PastryCount(result)));
+        Assert.AreEqual(5,ConsoleProgram.CalculatePastry(ConsoleProgram.PastryCount(result)));
         Pastry newPastry4 = new Pastry();
-        Assert.AreEqual(70,ConsoleProgram.CalculatePastry(ConsoleProgram.PastryCount(result)));
+        Assert.AreEqual(7,ConsoleProgram.CalculatePastry(ConsoleProgram.PastryCount(result)));
         Pastry newPastry5 = new Pastry();
-        Assert.AreEqual(90,ConsoleProgram.CalculatePastry(ConsoleProgram.PastryCount(result)));
+        Assert.AreEqual(9,ConsoleProgram.CalculatePastry(ConsoleProgram.PastryCount(result)));
         Pastry newPastry6 = new Pastry();
-        Assert.AreEqual(100,ConsoleProgram.CalculatePastry(ConsoleProgram.PastryCount(result)));
+        Assert.AreEqual(10,ConsoleProgram.CalculatePastry(ConsoleProgram.PastryCount(result)));
         }       
     }
 }
