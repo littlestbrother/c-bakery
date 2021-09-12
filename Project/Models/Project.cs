@@ -18,7 +18,12 @@ namespace Order{
 
 }
 
-public class Bread : MenuItem{}
+public class Bread : MenuItem{
+    public int BreadCnt = 0;
+    public static void GetBreadCount(){
+
+    }
+}
 
 public class Pastry : MenuItem{}
 }

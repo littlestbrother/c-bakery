@@ -1,6 +1,8 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Collections.Generic;
 using System;
 using Order;
+using Program;
 
 namespace Order.Tests
 {
@@ -27,5 +29,18 @@ namespace Order.Tests
             Pastry newOrder = new Pastry();
             Assert.AreEqual(typeof(Pastry), newOrder.GetType());
         }
+    }
+
+    [TestClass]
+    public class CountItems
+    {
+
+        [TestMethod]
+        public void Bread_BreadCount_True()
+        {
+        Bread newBread = new Bread();
+        List<MenuItem> result = MenuItem.GetAll();
+        Assert.AreEqual(3,ConsoleProgram.BreadCount(result));
+        }       
     }
 }
