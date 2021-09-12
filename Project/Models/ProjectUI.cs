@@ -54,28 +54,38 @@ namespace Program{
         return Total;
     }
 
-    static void Main(){
+    public static void AddBread(int NumBread){
+        int i = 0;
+        while(i < NumBread){
+        Bread newBread = new Bread();
+        i++;
+        }
+    }
 
-        Pastry myPastry1 = new Pastry();
-        Pastry myPastry2 = new Pastry();
-        Pastry myPastry3 = new Pastry();
-        Pastry myPastry4 = new Pastry();
-        Pastry myPastry5 = new Pastry();
-        Pastry myPastry6 = new Pastry();
-        Pastry myPastry7 = new Pastry();
-        Pastry myPastry8 = new Pastry();
-        Pastry myPastry9 = new Pastry();
-        Pastry myPastry10 = new Pastry();
-        Pastry myPastry11 = new Pastry();
-        Bread myBread1 = new Bread();
-        Bread myBread2 = new Bread();
-        Bread myBread3 = new Bread();
-        Bread myBread4 = new Bread();
-        Bread myBread5 = new Bread();
-        Bread myBread6 = new Bread();
-        Bread myBread7 = new Bread();
-        List<MenuItem> result = MenuItem.GetAll();
+        public static void AddPastry(int NumPastry){
+        int i = 0;
+        while(i < NumPastry){
+        Pastry newPastry = new Pastry();
+        i++;
+        }
+    }
+
+    static void Main(){
         Console.Clear();
+        Console.WriteLine("How many loafs of Bread would you like?");
+        string BreadResponse = Console.ReadLine();
+        int NumBread = int.Parse(BreadResponse);
+        AddBread(NumBread);
+        //
+        Console.Clear();
+        Console.WriteLine("How many Pastries would you like?");
+        string PastryResponse = Console.ReadLine();
+        int NumPastry = int.Parse(PastryResponse);
+        AddPastry(NumPastry);
+        //
+        Console.Clear();
+        List<MenuItem> result = MenuItem.GetAll();
+        Console.WriteLine("Here is your total:");
         Console.WriteLine("Bread Count:");
         Console.WriteLine(BreadCount(result));
         Console.WriteLine("Bread Cost: $");
@@ -88,15 +98,6 @@ namespace Program{
         Console.WriteLine("---------------");
         Console.WriteLine("Total: $");
         Console.WriteLine(CalculatePastry(PastryCount(result)) + CalculateBread(BreadCount(result)));
-
-        // Console.WriteLine("Bread Cost:");
-        // Console.WriteLine(CalculateBread(BreadCount(result)));
-
-
-            // foreach (var item in result){
-            // Console.WriteLine(item.ToString());
-            // // .Description
-            // }
         }
     }
 }
