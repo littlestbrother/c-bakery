@@ -40,7 +40,8 @@ namespace Order.Tests
         {
         Bread newBread = new Bread();
         List<MenuItem> result = MenuItem.GetAll();
-        Assert.AreEqual(3,ConsoleProgram.BreadCount(result));
+        //we expect two because a bread object was created earlier in our code on line 22.
+        Assert.AreEqual(2,ConsoleProgram.BreadCount(result));
         }       
     }
 }
