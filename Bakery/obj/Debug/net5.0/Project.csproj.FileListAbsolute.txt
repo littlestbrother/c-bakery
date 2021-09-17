@@ -1,5 +1,0 @@
-/home/aaron/Documents/epicodus/epicodus-fullstack/code-review/DotNetBakery/Bakery/obj/Debug/net5.0/Project.csproj.AssemblyReference.cache
-/home/aaron/Documents/epicodus/epicodus-fullstack/code-review/DotNetBakery/Bakery/obj/Debug/net5.0/Project.GeneratedMSBuildEditorConfig.editorconfig
-/home/aaron/Documents/epicodus/epicodus-fullstack/code-review/DotNetBakery/Bakery/obj/Debug/net5.0/Project.AssemblyInfoInputs.cache
-/home/aaron/Documents/epicodus/epicodus-fullstack/code-review/DotNetBakery/Bakery/obj/Debug/net5.0/Project.AssemblyInfo.cs
-/home/aaron/Documents/epicodus/epicodus-fullstack/code-review/DotNetBakery/Bakery/obj/Debug/net5.0/Project.csproj.CoreCompileInputs.cache

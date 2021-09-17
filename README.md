@@ -9,29 +9,29 @@
 - C#
 - dotnet
 - git
+- MsTest
 
 ## **Description**
 
-*This application asks the user to submit an integer for each type of item at a bakery.*
+*This application asks the user to submit an integer for either a loaf of bread or pastries and will eventually return pricing.*
 
 ## **Setup/Installation Requirements**
 
 - to download the repo
 
 ```bash
-git clone https://https://github.com/littlestbrother/c-sharp-bakery
+*git clone https://https://github.com/littlestbrother/c-sharp-bakery*
 ```
 
-- *navigate to the downloaded repository and run*
+- *navigate to the root of the downloaded repository and run:*
 
 ```bash
-cd Project && dotnet run
+dotnet run --project Bakery && dotnet test Bakery.Tests
 ```
 
 ## **Known Bugs**
 
-- This code is hardly DRY. If I could go back in time I would tackle this problem differently.
-- I haven't noticed any bugs.
+- No known bugs yet, please feel free to break it!
 
 ## **License**
 
