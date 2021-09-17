@@ -20,7 +20,7 @@
 - to download the repo
 
 ```bash
-git clone https://https://github.com/littlestbrother/c-sharp-bakery && cd c-sharp-bakery
+git clone https://github.com/littlestbrother/c-sharp-bakery && cd c-sharp-bakery
 ```
 
 - *navigate to the root of the downloaded repository and run:*
